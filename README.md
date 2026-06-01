@@ -60,7 +60,7 @@ Clone into your `~/.claude/skills/` directory:
 
 ```bash
 cd ~/.claude/skills/
-git clone https://github.com/<your-username>/obsidian-study-notes.git study-notes
+git clone https://github.com/<your-username>/obsidian-study-notes-skill.git study-notes
 ```
 
 Then run `/reload-skills` in Claude Code, or restart Claude Code.
